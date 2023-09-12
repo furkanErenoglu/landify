@@ -389,3 +389,41 @@ a{
     line-height: 32px;
     margin-bottom: 32px;
 }
+
+.page-6{
+
+}
+
+.page-6-inner{
+
+}
+
+.page-6-main{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 48px;
+}
+
+.page-6-main h1{
+    color: #18191F;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    
+    width: 50%;
+}
+
+.page-6-main p{
+    color: #18191F;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 50%;
+}
+
+.page-6-img-container img{
+    width: 100%;
+    margin-bottom: 60px;
+    border: 2px solid red;
+}
