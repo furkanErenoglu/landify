@@ -292,3 +292,54 @@ a{
     margin-top: 32px;
     margin-right: 120px;
 }
+
+.page-4{
+
+}
+
+.page-4-inner{
+    padding: 165px 80px;
+    gap: 30px;
+    display: flex;
+}
+
+.section-1{
+    width: 49%;
+
+}
+
+.section-1 h1{
+    color: #18191F;
+    font-size: 48px;
+    font-weight: 800;
+    font-style: normal;
+    line-height: 64px;
+}
+
+.section-1 p{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.section-2{
+    width: 49%;
+    display: flex;
+}
+
+.section-2-1{
+    width: 50%;
+}
+
+.page-4-boxes{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.page-4-boxes-body{
+    margin-left: 24px;
+}
+
+.section-2-2{
+    width: 50%;
+}
