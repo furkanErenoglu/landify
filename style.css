@@ -196,3 +196,99 @@ a{
     line-height: 26px;
 }
 
+.page-3{
+    background-color: #d5fafc;
+    
+}
+
+.page-3-inner{
+    display: flex;
+    gap: 30px;
+    
+
+}
+
+.firstbox{
+    width: 50%;
+    padding-left: 150px;
+    padding-top: 120px;
+    margin-bottom: 116px;
+}
+
+.realcustomer{
+    
+}
+
+.realcustomer h1{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 64px;
+}
+
+.realcustomer p{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+
+.card-outer{
+    padding-left: 120px;
+}
+
+.card{
+    background-color: #FFF;
+    padding: 20px;
+}
+
+.card img{
+    margin: 32px;
+}
+
+.firstp{
+    color: #18191F;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 32px;
+    padding-left: 24px;
+    padding-bottom: 24px;
+    padding-right: 24px;
+}
+
+.hubspotlogo2{
+    width: 140px;
+    height: 40px;
+}
+
+.authorcontainer{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    padding-left: 24px;
+}
+
+.authorcontainer2{
+    color: #969bab;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    padding-left: 24px;
+}
+
+.secondbox{
+    width: 50%;
+    padding-top: 168px;
+    padding-right: 150px;
+    margin-bottom: 80px;
+}
+
+.airbnb2{
+    width: 130px;
+    height: 40px;
+}
+
+.card-outer2{
+    margin-top: 32px;
+    margin-right: 120px;
+}
