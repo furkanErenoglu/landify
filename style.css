@@ -343,3 +343,49 @@ a{
 .section-2-2{
     width: 50%;
 }
+
+.page-5{
+    padding-bottom: 64px;
+
+}
+
+.page-5-inner{
+    display: flex;
+}
+
+.page-5-img{
+    width: 50%;
+    background-color: #f1e4ff;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.page-5-boddy{
+    width: 50%;
+    display: flex;
+    align-items: center;
+
+}
+
+.page-5-boddy-inner{
+    padding-right: 48px;
+    padding-left: 48px;
+}
+
+.page-5-boddy h1{
+    color: #18191F;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 32px;
+}
+
+.page-5-boddy p{
+    color: #18191F;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 32px;
+}
